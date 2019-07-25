@@ -1,0 +1,5 @@
+## Interface: 40000
+## Title: blackframe
+## Author: Inclave
+## OptionalDeps: ExtendedUF, FocusFrame
+blackframe.lua
